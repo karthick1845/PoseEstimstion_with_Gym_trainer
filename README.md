@@ -1,4 +1,4 @@
-# Human_PoseEstimstion_with_Gym_trainer
+# Human_PoseEstimation_with_Gym_trainer
 
   In this project PoseEstimation module will help to identify an human body activities and Ai_Trainer will help to count our gym equpiments.
   
